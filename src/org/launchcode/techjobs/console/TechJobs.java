@@ -120,8 +120,7 @@ public class TechJobs {
                 System.out.println(results.getKey() + ": " + results.getValue());
             }
 
-            System.out.println("*****");
-            System.out.println();
+            System.out.println("*****\n");
         }
 
         if (someJobs.size() == 0){
